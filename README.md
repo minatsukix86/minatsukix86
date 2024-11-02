@@ -1,6 +1,6 @@
 ## 🍜 ☆ Hey i'm Juzo !
 
-![Alt Text](https://media.discordapp.net/attachments/1286393715220545648/1300862629102882928/68747470733a2f2f632e74656e6f722e636f6d2f70316b646863335047675541414141432f74656e6f722e676966.gif?ex=6722623b&is=672110bb&hm=76f233e828efc955a307ef2d10145c490e4f1e1bc81ad34a28549151e8ba9873&=)
+![Alt Text](https://media.discordapp.net/attachments/1299120160073842789/1302069907604639867/image.png?ex=6726c699&is=67257519&hm=c57cceeede114405ede8d9a68a3502f9bf1a0b1cdebde0813f3ddcc5dd6e7f49&=&format=webp&quality=lossless&width=550&height=310)
 
 -----
 
