@@ -6,6 +6,7 @@
 
 ### 📋 ☆ About me :
 Hi, I'm Minatsuki, a programmer and cybersecurity enthusiast. I’m passionate about building efficient code and exploring security challenges. Check out my projects and join me in creating secure, high-performance solutions!
+[![Discord Presence](https://lanyard.cnrad.dev/api/1299115208727597147)](https://discord.com/users/1299115208727597147)
 
 -----
 
