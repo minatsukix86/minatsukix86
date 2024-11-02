@@ -1,11 +1,11 @@
-## 🍜 ☆ Hey i'm Juzo !
+## 🍜 ☆ Hey i'm Juzo/Minatsuki !
 
 ![Alt Text](https://media.discordapp.net/attachments/1299120160073842789/1302069907604639867/image.png?ex=6726c699&is=67257519&hm=c57cceeede114405ede8d9a68a3502f9bf1a0b1cdebde0813f3ddcc5dd6e7f49&=&format=webp&quality=lossless&width=550&height=310)
 
 -----
 
 ### 📋 ☆ About me :
-Hi, I'm Juzo, a programmer and cybersecurity enthusiast. I’m passionate about building efficient code and exploring security challenges. Check out my projects and join me in creating secure, high-performance solutions!
+Hi, I'm Minatsuki, a programmer and cybersecurity enthusiast. I’m passionate about building efficient code and exploring security challenges. Check out my projects and join me in creating secure, high-performance solutions!
 
 -----
 
