@@ -13,8 +13,8 @@ Hi, I'm Minatsuki, a programmer and cybersecurity enthusiast. I’m passionate a
 ### 💻 ☆ Languages & Technologies :
 
 [![Languages](https://skillicons.dev/icons?i=js,python,go,cpp,)](https://skillicons.dev) <br />
-[![Languages](https://skillicons.dev/icons?i=html,css,php,c)](https://skillicons.dev) <br />
-[![Technologies](https://skillicons.dev/icons?i=git,github,postman,docker)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,c)](https://skillicons.dev) <br />
+[![Technologies](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
 
 -----
 
@@ -25,6 +25,5 @@ Hi, I'm Minatsuki, a programmer and cybersecurity enthusiast. I’m passionate a
 -----
 
 ### 📲 ☆ Socials :
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/softwaretobi)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/payforsmurf)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/minatsukix86)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
