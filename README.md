@@ -1,6 +1,6 @@
 ## 🍜 ☆ Hey i'm Juzo/Minatsuki !
 
-![Alt Text](https://media.discordapp.net/attachments/1299120160073842789/1302069907604639867/image.png?ex=6726c699&is=67257519&hm=c57cceeede114405ede8d9a68a3502f9bf1a0b1cdebde0813f3ddcc5dd6e7f49&=&format=webp&quality=lossless&width=550&height=310)
+![Alt Text](https://media.discordapp.net/attachments/1305152968429015090/1305202039306981436/633a22b3cbd95e2e5458600c7e36bb07.gif?ex=67322b9f&is=6730da1f&hm=308cb163ff73382a0dfc6244e2cbadc15ab9b24e98b9469b46218157b4021a96&=)
 
 -----
 
