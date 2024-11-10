@@ -24,11 +24,6 @@ Voici les technologies que j’utilise régulièrement pour mes projets et reche
   ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
   ![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
 
-- **Outils de Cybersécurité :**  
-  ![OSINT](https://img.shields.io/badge/-OSINT-0078D7?style=for-the-badge)
-  ![DDoS Protection](https://img.shields.io/badge/-DDoS%20Protection-E34F26?style=for-the-badge)
-  ![Zero Trust](https://img.shields.io/badge/-Zero%20Trust-3C3C3D?style=for-the-badge&logo=trustpilot&logoColor=white)
-
 ---
 
 ## 🚀 Projets en cours
