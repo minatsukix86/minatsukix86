@@ -26,15 +26,6 @@ Here are the technologies that I regularly use for my projects and research:
 
 ---
 
-## 🚀 Current projects
-
-- **Zero Trust AI-based Authentication System** : Développement d'un système d'authentification basé sur l'IA pour une sécurité maximale.
-- **Firewall en Golang** : Protection de sites web contre les attaques DDoS et DoS avec des solutions d'avant-garde.
-- **LiysOs** : OS
-  
-
----
-
 ## 🎯 Goals
 
 I am always looking to improve my skills and explore new areas such as machine learning applied to security and automation of complex tasks. Feel free to contact me to discuss projects or ideas!
